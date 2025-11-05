@@ -11,5 +11,5 @@ Gradle:
 
 ```kotlin
 dependencies {
-    implementation("io.github.haburashi76:kt_master:1.0.0")
+    implementation("io.github.haburashi76:kt_master:<version>>")
 }
