@@ -10,6 +10,10 @@
 Gradle:
 
 ```kotlin
+repositories {
+    mavenCentral()
+}
 dependencies {
     implementation("io.github.haburashi76:kt_master:<version>>")
 }
+```
